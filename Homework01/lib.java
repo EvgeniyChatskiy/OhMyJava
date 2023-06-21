@@ -1,8 +1,8 @@
-package Homework01.Task01;
+package Homework01;
 import java.util.Scanner;
 
 public class lib {
-    static int getNum(){
+    public static int getNum(){
         Scanner iScanner = new Scanner(System.in);
         int num = iScanner.nextInt();
         iScanner.close();

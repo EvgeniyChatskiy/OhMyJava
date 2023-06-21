@@ -1,4 +1,7 @@
 package Homework01.Task01;
+
+import Homework01.lib;
+
 public class program{
     public static void main(String[] args) {
         System.out.printf("Введите число: ");
